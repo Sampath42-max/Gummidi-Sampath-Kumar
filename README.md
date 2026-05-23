@@ -62,23 +62,22 @@ A passionate software developer from India, focused on full-stack development, A
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sampath42-max/Sampath42-max/output/snake.svg" alt="Snake animation" />
-</p>
-
-
 <div align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sampath42-max&show_icons=true&theme=github_dark&hide_border=true&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&bg_color=0d1117" />
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampath42-max&theme=github-dark-blue&hide_border=true&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" />
+  <img src="https://raw.githubusercontent.com/Sampath42-max/Sampath42-max/output/snake.svg" alt="Snake animation" />
 
   <br/><br/>
 
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath42-max&layout=compact&theme=github_dark&hide_border=true&title_color=00ffcc&text_color=ffffff&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sampath42-max&show_icons=true&theme=github_dark&hide_border=true&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+
+  <img width="48%" src="https://streak-stats.demolab.com?user=Sampath42-max&theme=github-dark-blue&hide_border=true&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Sampath42-max&label=Profile%20Views&color=00ffcc&style=for-the-badge" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath42-max&layout=compact&theme=github_dark&hide_border=true&title_color=00ffcc&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Sampath42-max&label=Profile%20Views&color=00ffcc&style=for-the-badge" alt="Profile Views" />
 
 </div>
