@@ -42,3 +42,19 @@ A passionate software developer from India, focused on full-stack development, A
   <img src="https://img.shields.io/badge/IoT%20Sensors-0A66C2?style=for-the-badge&logo=internetcomputer&logoColor=white" />
 
 </p>
+
+## 🏆 Coding Profiles and Social Media
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sampath-321527322/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:sampathgummidi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/Sampath_gummidi/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
