@@ -75,3 +75,5 @@ A passionate software developer from India, focused on full-stack development, A
   <img src="https://raw.githubusercontent.com/Sampath42-max/Sampath42-max/output/snake.svg" alt="Snake animation" />
 
 </div>
+
+Check out my pinned repositories below for my latest projects! 👇
