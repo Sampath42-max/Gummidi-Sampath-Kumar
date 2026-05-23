@@ -58,3 +58,10 @@ A passionate software developer from India, focused on full-stack development, A
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
+
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gummidi Sampath kumar/Gummidi Sampath kumar/output/snake.svg" alt="Snake animation" />
+</p>
