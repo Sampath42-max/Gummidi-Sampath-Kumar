@@ -65,3 +65,26 @@ A passionate software developer from India, focused on full-stack development, A
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sampath42-max/Sampath42-max/output/snake.svg" alt="Snake animation" />
 </p>
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=GitHub%20Activity&fontSize=35&color=0:00c6ff,100:0072ff&stroke=ffffff&strokeWidth=1&fontColor=ffffff" />
+
+  <br/><br/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sampath42-max&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampath42-max&theme=tokyonight&hide_border=true&border_radius=15" />
+
+  <br/><br/>
+
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampath42-max&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Sampath42-max&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+</div>
