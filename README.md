@@ -30,7 +30,7 @@ A passionate software developer from India, focused on full-stack development, A
   <img src="https://img.shields.io/badge/Neural%20Networks-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+ <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
